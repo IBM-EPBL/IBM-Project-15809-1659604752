@@ -1,0 +1,52 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Objectives
+By the end of this project you will:
+
+Gain knowledge of Watson IoT Platform.
+
+Connecting IoT devices to the Watson IoT platform and exchanging the sensor data.
+
+Explore python client libraries of Watson IoT Platform.
+
+Gain knowledge on IBM Cloudant DB
+
+Configuring APIs using Node-RED for communicating with a mobile application.
+
+Creating a Mobile Application through which the user interacts with the IoT device.
+
+Project Flow:
+
+The parameters like temperature, humidity, and soil moisture are updated to the Watson IoT platform
+
+The device will subscribe to the commands from the mobile application and control the motors accordingly
+
+APIs are developed using Node-RED service for communicating with Mobile Application
+
+A mobile application is developed using the MIT App inventor to monitor the sensor parameters and control the motors.
+
+To accomplish this, we have to complete all the activities and tasks listed below:
+
+Create and configure IBM Cloud Services
+
+Create IBM Watson IoT Platform 
+
+Create a device & configure the IBM IoT Platform
+
+Create Node-RED service
+
+Create a database in Cloudant DB to store all the sensor parameters
+
+Develop a python script to publish and subscribe to the IBM IoT platform
+
+Configure the Node-RED and create APIs for communicating with mobile application
+
+Developa mobile application to display the sensor parameters and control the motors  
